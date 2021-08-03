@@ -12,3 +12,5 @@ Html
 ### Utilizando
 
 Fetch e uma API publica
+
+Disponivel em https://dev-paulo-matos.github.io/FUDU/
