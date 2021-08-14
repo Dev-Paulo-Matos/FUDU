@@ -17,7 +17,5 @@ Html
 Fetch e uma API publica
 
 Disponivel em https://dev-paulo-matos.github.io/FUDU/
->>>>>>> 7641ad81397017662671b2e20745f0397cbee0b4
 
 Projeto em manutenção Manutenção, estou revendo as melhores praticas de design, para organizar o css do site, obrigado a atenção;
-
